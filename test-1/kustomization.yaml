@@ -1,3 +1,4 @@
 resources:
   - ./namespace.yaml
   - ./nginx.yaml
+  - ./service.yaml
